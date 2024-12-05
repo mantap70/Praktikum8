@@ -15,34 +15,34 @@ Data mahasiswa tertentu dapat dihapus berdasarkan nama.
 Anda dapat mengubah nilai mahasiswa yang sudah ada dalam daftar.
 
 ## Struktur Class dan Method
-**Class:** 'Daftar nilai Mahasiswa'  
+**Class:** `Daftar nilai Mahasiswa`  
 ![Class](pictures/class.png)  
 Class ini bertanggung jawab untuk menyimpan dan mengelola data mahasiswa.  
 
 **Method:**  
-1. 'tambah(nama, nilai)  
+1. `tambah(nama, nilai)`  
 ![Add](pictures/add.png)  
 Menambahkan data mahasiswa berupa nama dan nilai ke dalam daftar.  
 **Parameter:** 
-* 'nama' : Nama Mahasiswa (*string*)
-* 'nilai' : Nilai Mahasiswa (*integer*)  
+* `nama` : Nama Mahasiswa (*string*)
+* `nilai` : Nilai Mahasiswa (*integer*)  
 
-2. 'tampilkan()'  
+2. `tampilkan()`  
 ![Show](pictures/show.png)  
 Menampilkan seluruh data mahasiswa yang tersimpan. Jika tidak ada data, program akan memberi tahu bahwa daftar kosong.  
 
-3. 'hapus(nama)'  
+3. `hapus(nama)`  
 ![Delete](pictures/delete.png)  
 Menghapus data mahasiswa berdasarkan nama.
 **Parameter:** 
-* 'nama' : Nama Mahasiswa yang ingin dihapus (*string*)  
+* `nama` : Nama Mahasiswa yang ingin dihapus (*string*)  
 
-4. 'ubah (nama, nilai_baru)'  
+4. `ubah (nama, nilai_baru)`  
 ![Change](pictures/change.png)  
 Mengubah nilai mahasiswa berdasarkan nama.
 **Parameter:** 
-* 'nama' : Nama Mahasiswa yang ingin diubah (*string*)
-* 'nilai' : Nilai baru untuk Mahasiswa tersebut (*integer*)
+* `nama` : Nama Mahasiswa yang ingin diubah (*string*)
+* `nilai` : Nilai baru untuk Mahasiswa tersebut (*integer*)
 
 ## Contoh Penggunaan
 Berikut adalah contoh output saat menjalankan program:
