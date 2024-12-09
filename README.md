@@ -3,6 +3,10 @@
 ![Flowchart](pictures/flowchart.png)
 Program ini adalah aplikasi sederhana berbasis Python yang digunakan untuk mengelola daftar nilai mahasiswa. Program ini menggunakan konsep **Object-Oriented Programming (OOP)** dengan memanfaatkan class dan method.
 
+## Diagram Class
+![Diagram](pictures/diagram.png)  
+Dikarenakan pada program ini hanya memiliki satu buah *Class* maka **Diagram Class** Akan terlihat seperti itu  
+
 ## Fitur Program
 ![Features](pictures/features.png)
 1. **Menambah data Mahasiswa**  
